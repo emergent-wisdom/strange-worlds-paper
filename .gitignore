@@ -1,0 +1,15 @@
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+.DS_Store
+
+# Keep the compiled paper PDF
+!paper/strange_worlds_paper.pdf
